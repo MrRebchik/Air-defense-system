@@ -13,13 +13,17 @@ This model represents an air defense system. The drone carrying a missile patrol
 В роли цели выступает крылатая ракета AGM JASSM
 ![image](https://user-images.githubusercontent.com/38166546/226451403-ae5ce6ff-4f74-48f0-b731-43f66c9ec2b9.png)
 Внутри ракеты размечены границы модулей, которые требуется вывести из строя осколками
+ #
 ![image](https://user-images.githubusercontent.com/38166546/226451789-c9708236-08bf-4d09-bb7c-9e5af8501194.png)
 # Взрыв
 Зенитная ракета, выпущенная с беспилотника наводится на крылатую ракету противника. 
 ![image](https://user-images.githubusercontent.com/38166546/226453442-ba85681b-7984-4562-9c69-3ef56cd5011e.png)
 При подлете на расстояние максимальной эффективности дейстивия осколков симулируется детонация. Моделируется разлет 200 осколков, каждый из них при попадании в любой из отсеков ракеты противника имеет веростность поразить или не поразить его.
+#
 ![image](https://user-images.githubusercontent.com/38166546/226453624-e5d54db0-e0cc-42fd-ae14-109c06a53680.png)
+#
 ![image](https://user-images.githubusercontent.com/38166546/226453809-1493975f-f15e-43eb-92c2-a86072baeaae.png)
+#
 Затем отображаются результаты поражения отсеков.
 
 ![image](https://user-images.githubusercontent.com/38166546/226455847-524fc8af-7260-4a2b-bd3a-d49ad4616fd1.png)
